@@ -1,6 +1,6 @@
 - op: replace
   path: /spec/template/spec/domain/memory/guest 
-  value: 6144M
+  value: 2048M
 - op: replace
   path: /spec/template/spec/domain/cpu/cores
   value: 2
