@@ -1,9 +1,9 @@
 - op: replace
   path: /spec/template/spec/domain/memory/guest 
-  value: 2048M
+  value: 4096M
 - op: replace
   path: /spec/template/spec/domain/cpu/cores
-  value: 1
+  value: 2
 - op: replace
   path: /spec/running
   value: true
