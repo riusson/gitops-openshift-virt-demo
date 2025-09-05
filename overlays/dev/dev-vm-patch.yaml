@@ -3,7 +3,7 @@
   value: 4096M
 - op: replace
   path: /spec/template/spec/domain/cpu/cores
-  value: 2
+  value: 4
 - op: replace
   path: /spec/running
   value: true
